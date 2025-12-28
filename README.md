@@ -49,10 +49,3 @@ Below are visual summaries of the languages and activity on my GitHub profile.
 
 ---
 
-Notes:
-- I fetched the top repositories to feature; the search results I accessed returned 6 items but there are 22 repositories total. You can view the full list at: https://github.com/search?q=user:ahadRai+fork:false&sort=stars&order=desc
-- If you want different projects or more detail (dates, tech used, concrete outcomes), tell me which repos to update and I will adjust the README and commit again.
-
----
-
-Calm, concise, and ready for the next iteration.
