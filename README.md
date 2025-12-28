@@ -1,4 +1,4 @@
-# Ahad Rai — Software Engineer
+# Ahad Raiyen — Software Engineer
 
 A focused approach to building reliable backend systems, automation, and practical developer tools. I work on services, pipelines, and infrastructure that scale and are easy to maintain.
 
@@ -6,11 +6,11 @@ A focused approach to building reliable backend systems, automation, and practic
 
 ## Core skills
 
-- Languages: Python · Go · JavaScript (Node.js)
-- Backend & APIs: REST · gRPC · FastAPI · Gin
-- Infrastructure & DevOps: Docker · Kubernetes · Terraform · CI/CD
-- Data & Storage: PostgreSQL · Redis · Elasticsearch
-- Practices: Testing · Observability · Automation · Clean architecture
+- Languages:  Go · Java
+- Backend & APIs: REST · gRPC 
+- Infrastructure & DevOps: Microservices · Docker · CI/CD
+- Data & Storage: PostgreSQL · Redis 
+- Practices: Testing : Automation · Clean architecture · Problem Solving
 
 ---
 
@@ -22,11 +22,7 @@ A focused approach to building reliable backend systems, automation, and practic
 
 - [ConsoleGroupChat](https://github.com/ahadRai/ConsoleGroupChat) — Terminal-based group chat implemented in Java; a learning project exploring concurrency and networking concepts.
 
-- [fydp_project](https://github.com/ahadRai/fydp_project) — Final year project repository with experimental code and documentation for ongoing academic work.
 
-- [SWE_Lab_C](https://github.com/ahadRai/SWE_Lab_C) — Course lab exercises and examples in C for software engineering coursework.
-
-- [SweCt1](https://github.com/ahadRai/SweCt1) — Course materials and small demonstrations related to software engineering topics.
 
 (If you'd like different projects featured or specific impact metrics, tell me which repos to highlight and provide brief outcomes.)
 
@@ -48,7 +44,6 @@ Below are visual summaries of the languages and activity on my GitHub profile.
 
 ## Contact & links
 
-- GitHub: [ahadRai](https://github.com/ahadRai)
 - LinkedIn: [linkedin.com/in/ahadrai](https://linkedin.com/in/ahadrai)
 - Email: ahadraiyen@gmail.com
 
