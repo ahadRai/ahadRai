@@ -44,7 +44,13 @@ To make my primary stacks visible without relying on generated images, here are 
 
 Below are visual summaries of the languages and activity on my GitHub profile.
 
-![Ahad"s's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahadRai&hide=contribs,prs)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahadRai&hide=contribs,prs)
 
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadRai&layout=compact&theme=transparent&hide_title=true" />
