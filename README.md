@@ -14,13 +14,27 @@ A focused approach to building reliable backend systems, automation, and practic
 
 ---
 
+## Coding stacks
+
+To make my primary stacks visible without relying on generated images, here are the core technologies I work with:
+
+- Languages: Go · Java
+- APIs & Protocols: REST · gRPC
+- Databases & Storage: PostgreSQL · Redis
+- Infrastructure & DevOps: Docker · CI/CD · Microservices
+- Tools & Patterns: Testing · Automation · Clean architecture
+
+---
+
 ## Featured projects
 
-- [ShareVortex](https://github.com/ahadRai/ShareVortex) — A lightweight web app for sharing content and links (deployed: https://share-vortex.vercel.app). Built with a focus on simple UX and fast iteration.
+- [ShareVortex](https://github.com/ahadRai/ShareVortex) — A lightweight web app for sharing content and links (deployed: https://share-vortex.vercel.app). Built with a focus on simple UX and fast iterations.
 
 - [MultiVendor](https://github.com/ahadRai/MultiVendor) — Static storefront templates and layouts for multi-vendor marketplaces. Useful for prototyping front-end flows and vendor onboarding.
 
 - [ConsoleGroupChat](https://github.com/ahadRai/ConsoleGroupChat) — Terminal-based group chat implemented in Java; a learning project exploring concurrency and networking concepts.
+
+- [Health-bar](https://github.com/ahadRai/Health-bar) — A lightweight service for collecting and visualizing system health metrics; useful for monitoring application and infrastructure health.
 
 
 
@@ -46,4 +60,3 @@ Below are visual summaries of the languages and activity on my GitHub profile.
 - Email: ahadraiyen@gmail.com
 
 ---
-
