@@ -4,28 +4,6 @@ A focused approach to building reliable backend systems, automation, and practic
 
 ---
 
-## Core skills
-
-- Languages:  Go · Java
-- Backend & APIs: REST · gRPC 
-- Infrastructure & DevOps: Microservices · Docker · CI/CD
-- Data & Storage: PostgreSQL · Redis 
-- Practices: Testing · Automation · Clean architecture · Problem Solving
-
----
-
-## Coding stacks
-
-To make my primary stacks visible without relying on generated images, here are the core technologies I work with:
-
-- Languages: Go · Java
-- APIs & Protocols: REST · gRPC
-- Databases & Storage: PostgreSQL · Redis
-- Infrastructure & DevOps: Docker · CI/CD · Microservices
-- Tools & Patterns: Testing · Automation · Clean architecture
-
----
-
 ## Featured projects
 
 - [ShareVortex](https://github.com/ahadRai/ShareVortex) — A lightweight web app for sharing content and links (deployed: https://share-vortex.vercel.app). Built with a focus on simple UX and fast iterations.
