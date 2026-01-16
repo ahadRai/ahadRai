@@ -24,8 +24,6 @@ A focused approach to building reliable backend systems, automation, and practic
 
 
 
-(If you'd like different projects featured or specific impact metrics, tell me which repos to highlight and provide brief outcomes.)
-
 ---
 
 ## Tech overview
