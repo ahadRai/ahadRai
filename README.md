@@ -44,6 +44,8 @@ To make my primary stacks visible without relying on generated images, here are 
 
 Below are visual summaries of the languages and activity on my GitHub profile.
 
+![Ahad"s's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahadRai&hide=contribs,prs)
+
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadRai&layout=compact&theme=transparent&hide_title=true" />
 </p>
