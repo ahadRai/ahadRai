@@ -10,7 +10,7 @@ A focused approach to building reliable backend systems, automation, and practic
 - Backend & APIs: REST · gRPC 
 - Infrastructure & DevOps: Microservices · Docker · CI/CD
 - Data & Storage: PostgreSQL · Redis 
-- Practices: Testing : Automation · Clean architecture · Problem Solving
+- Practices: Testing · Automation · Clean architecture · Problem Solving
 
 ---
 
