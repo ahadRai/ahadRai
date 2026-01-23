@@ -30,15 +30,11 @@ Below are visual summaries of the languages and activity on my GitHub profile.
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
-![](https://raw.githubusercontent.com/ahadRai/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ahadRai/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadRai&layout=compact&theme=transparent&hide_title=true" />
 </p>
 
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahadRai&show_icons=true&count_private=true&theme=transparent&hide_title=true" />
-</p>
 
 ---
 
