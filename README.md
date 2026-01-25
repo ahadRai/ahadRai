@@ -31,9 +31,12 @@ Below are visual summaries of the languages and activity on my GitHub profile.
 
 
 
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadRai&layout=compact&theme=transparent&hide_title=true" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahadRai&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahadRai&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahadRai&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahadRai&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahadRai&theme=github_dark&utcOffset=8)
+
 
 
 ---
