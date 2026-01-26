@@ -1,8 +1,8 @@
-# Ahad Raiyen — Software Engineer
+>
+>### A software cannot be perfect, but it can be scalable...
+>—*Ahad Raiyen*
 
-A focused approach to building reliable backend systems, automation, and practical developer tools. I work on services, pipelines, and infrastructure that scale and are easy to maintain.
 
----
 
 ## Featured projects
 
