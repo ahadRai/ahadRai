@@ -31,11 +31,11 @@ Below are visual summaries of the languages and activity on my GitHub profile.
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahadRai&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahadRai&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahadRai&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahadRai&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahadRai&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahadRai&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahadRai&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahadRai&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahadRai&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahadRai&theme=transparent&utcOffset=8)
 
 
 
