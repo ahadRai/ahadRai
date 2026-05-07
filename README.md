@@ -46,5 +46,4 @@ Below are visual summaries of the languages and activity on my GitHub profile.
 - LinkedIn: [linkedin.com/in/ahadrai](https://linkedin.com/in/ahadrai)
 - Email: ahadraiyen@gmail.com
 - Portfolio: [ahad-dev-portfolio](https://ahad-dev-portfolio-lyart.vercel.app/)
-- 
 ---
