@@ -6,7 +6,7 @@
 
 ## Featured projects
 
-- [Vibe_Standard]([https://github.com/ahadRai/ShareVortex](https://github.com/ahadRai/Vibe_Standard/releases/tag/v1.0.1)) — A CLI tool that scans your codebase and tells you if it's actually production-ready.
+- [Vibe_Standard](https://github.com/ahadRai/ShareVortex](https://github.com/ahadRai/Vibe_Standard/releases/tag/v1.0.1) — A CLI tool that scans your codebase and tells you if it's actually production-ready.
 
 - [ShareVortex](https://github.com/ahadRai/ShareVortex) — A lightweight web app for sharing content and links (deployed: https://share-vortex.vercel.app). Built with a focus on simple UX and fast iterations.
 
