@@ -1,6 +1,6 @@
 >
->### A software cannot be perfect, but it can be scalable...
->—*Ahad Raiyen*
+>### Debugging is like being a detective in a crime movie where you're also the murderer.
+> — *H809 from Reddit*
 
 
 
